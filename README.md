@@ -1,4 +1,4 @@
-# Hello! I’m [Poorvi] 👋
+# Hello! I’m Poorvi 👋
 
 I’m a passionate **Front-End Developer** with **4 years of experience** building responsive and performant web interfaces using **React.js**.
 
